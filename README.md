@@ -233,10 +233,10 @@ $ flask run
 > **NOTE: Flask's default port is 5000, which conflicts with AirPlay on MacOS.
 > we manually set the port to 5555 here to avoid this conflict.**
 
-Navigate to `http://127.0.0.1:5555` and you should see the index for our
 application:
 
-![Webpage that says "Welcome to my page!"](
+![Webpage that says "Welcome tNavigate to `http://127.0.0.1:5555` and you should see the index for our
+o my page!"](
 https://curriculum-content.s3.amazonaws.com/python/flask-application-structure-1.png
 )
 
